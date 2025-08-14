@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "25649636"))
 API_HASH = os.environ.get("API_HASH", "43af470d1c625e603733268b3c2f7b8f")
 
 # String Session (still left blank as per previous setup)
-SESSION = os.environ.get("SESSION", "BQFziNcAb6er2cHfW4tzBwQ-vg6hOQYCaNqZ17secmVBCJGhFqZFGRKuiHF2Fbds67zwTkBDn6Ljwyn0F6uhvd30wWqQpFUKmR5upyWiTeuO-XBu4h8sISMu97dV67BwBBxFXaU2pEoEyd9B0zXF8P9ofdkEdj9jpj73syt5eX4fjypq_l0soEoY9fgbqFflxshAtZ8u8kMYwfTqptHgZOa1kDwF2bDaIanDk4Vpm1ggkHOfzDW4YyS76VF7Q4sbqljqaXpRS5jVY0K46OEaxHdTq0aNBPKemNsXqZkLUET73jDlCMqjQVxYyLsZ8IJ46_xNokC_uDXq-ViZ-q4NIjop6BjmhAAAAAGmjQMiAA")
+SESSION = os.environ.get("SESSION", "BQFziNcAbMsqpI10Yw2wcBVejCsyneKywuojfuywbIIH6x1apu8DUokswbzCTqU5NEixIO15pe2hotyrvrA_PD7w9S38WTp8aFRG1yepGNjmDRakjF8pXFXl-oZvoOrF_AIr5PAnFEBymu30y881kSYA-H-IN2TXXDC_RsIRXWTVgvLr8IMusEW98_Af0epC9yf1uIH_Q0VQWesdbhyajBFYENh4qJu0gInSdvp6HUguerjcARMpD6GLNwJdM7KFfItVwhD0HuF8SBJM_Gif78xkxarkIs8ayog9Mnp5-OJVa-plzlW4FrbuJrM4nay7c99MYsxJrUBBvlyVi4IPaU_DBC_enQAAAAGmjQMiAA")
 
 # Your Owner / Admin Id For Broadcast 
 ADMINS = int(os.environ.get("ADMINS", "7815236348"))
